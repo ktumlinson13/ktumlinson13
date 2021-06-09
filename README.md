@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ktumlinson13
 - 👀 I’m interested in large data visualization and data gathering techniques
 - 🌱 I’m currently learning advanced data analytics for my degree program; however, I'm also using other learning platforms
-- 💞️ I’m looking to collaborate on not sure yet since I'm new to this arena
+- 💞️ I’m not looking to collaborate on projects yet since I'm new to this arena
 - 📫 How to reach me ktumlinson13@yahoo.com
 
 <!---
